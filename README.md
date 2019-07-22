@@ -11,3 +11,4 @@
 7. curiosity
 8. original
 9. portal
+10. detection (dockerfile detection)
