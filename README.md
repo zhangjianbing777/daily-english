@@ -1,6 +1,6 @@
 # daily-english
 
-## 2019-7-22
+## 2019年7月22日
 0. inspiron
 1. ephemeral
 2. persistent
@@ -12,3 +12,10 @@
 8. original
 9. portal
 10. detection (dockerfile detection)
+
+## 2019年7月23日
+0. front stage , back stage
+1. accumulate
+2. Elastic Compute Service
+3. proposal
+4. election
