@@ -19,3 +19,6 @@
 2. Elastic Compute Service
 3. proposal
 4. election
+
+## 2019年7月24日
+0. I eat oatmeal with a spoon
