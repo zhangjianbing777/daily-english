@@ -22,3 +22,6 @@
 
 ## 2019年7月24日
 0. I eat oatmeal with a spoon
+
+## 2019年7月26日
+0. minimalistic 极简主义
