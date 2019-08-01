@@ -25,3 +25,8 @@
 
 ## 2019年7月26日
 0. minimalistic 极简主义
+
+## 2019年8月1日
+0. scheme
+1. digest
+3. permission
